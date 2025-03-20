@@ -1,1 +1,1 @@
-# Mediquiety
+# Mediquity-Safeguard
